@@ -27,6 +27,34 @@
 [생성한 스프링 부트 프로젝트 도커 이미지]
 - https://hub.docker.com/repository/docker/leaprealm/spring-boot-module-project
 
+
+## [기능 시연]
+
+### 메인화면 리스트 클릭
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/ec17cadd-2a97-40dc-afbe-dd8c78daa49e"></p>
+
+
+### 랜덤배너 동작
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/e7460cdc-1a41-4580-838e-1259a4b8dcb6"></p>
+
+### 길 찾기
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/8a05793b-1d5e-435c-957b-fae7ce38fea3"></p>
+
+### 좌표별 근처 음식점 조회
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/4b6090ca-cddb-4630-8eaa-bcba7f271e39"></p>
+
+### 음식점 리스트 조회
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/5f865cb2-f935-4bf7-a9d1-090d5ab24d77"></p>
+
+### 음식점 리스트 클릭 이벤트
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/b659133e-8d22-47ac-a266-04e6e2636c3b"></p>
+
+### 음식점 마커 클릭 이벤트
+<p align="center"><img width="700px" height="400px" src="https://github.com/Growing-Jiwoo/ModelRestaurant-/assets/115076308/ba32bf79-d4fe-49ab-b803-d7e87be301c5"></p>
+
+<br />
+
+## [ppt 발표 자료]
 ![1](https://user-images.githubusercontent.com/43628076/133060073-fc53a511-4a72-4025-9931-08cd31eb385e.png)
 ![2](https://user-images.githubusercontent.com/43628076/133060077-3358ffff-1379-46f4-8009-56e399486765.png)
 ![3](https://user-images.githubusercontent.com/43628076/133060081-e082818d-1894-400e-bdaa-67cd86a91935.png)
@@ -56,3 +84,4 @@
 ![27](https://user-images.githubusercontent.com/43628076/133060234-edd3ef68-dc87-4f53-bd9e-bdb834ab5729.png)
 ![28](https://user-images.githubusercontent.com/43628076/133060238-003a1b63-3c6b-42dd-bf31-3d04418038de.png)
 ![29](https://user-images.githubusercontent.com/43628076/133060239-4ab3c968-5439-4354-be1c-b267fe43fddd.png)
+
